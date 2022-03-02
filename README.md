@@ -1,4 +1,4 @@
-a### Joe Radman - Welcome 👋
+### Joe Radman - Welcome 👋
 
 I work on software with these tools: Vue.js, Vuetify, SwiftUI, C#. 
 
